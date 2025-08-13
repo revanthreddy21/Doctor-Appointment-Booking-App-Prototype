@@ -19,7 +19,7 @@ The design focuses on effortless scheduling, easy specialist selection, and clea
 
 
 ##  View Prototype
-[Click here to view the Figma prototype]([https://www.figma.com/file/your-figma-link](https://www.figma.com/proto/FQ7y5wiZth5CugWtoHzbOf/bio_prg?node-id=0-1&t=iOPhJG9vgVJzN5pH-1))
+[Click here to view the Figma prototype([https://www.figma.com/file/your-figma-link](https://www.figma.com/proto/FQ7y5wiZth5CugWtoHzbOf/bio_prg?node-id=0-1&t=iOPhJG9vgVJzN5pH-1))]
 
 
 ##  Tools Used
